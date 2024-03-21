@@ -22,4 +22,4 @@ The aggregation of web traffic data is carried out as below.
 - Step 6: Chart the distribution of the average time spent on each path
 
 ## Observations 
-On average, users spend more time on the  on the initial stages (e.g., signup, tutorials and introduction) or paths. Once onboarded, the users feel more comforable in navigating the different webpages.  
+On average, users spend more time on the  on the initial stages (e.g., signup, tutorials and introduction) or paths. Once onboarded, they feel more comforable in navigating the different webpages, spending considerably less time.  
